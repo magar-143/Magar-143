@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Love Heart ❤️</title>
+
+<style>
+body {
+    background: black;
+    color: pink;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    margin-top: 40px;
+}
+
+.heart {
+    font-size: 100px;
+    animation: beat 1s infinite;
+}
+
+@keyframes beat {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.3); }
+    100% { transform: scale(1); }
+}
+</style>
+</head>
+
+<body>
+
+<h1>LOVE WORLD ❤️</h1>
+
+<div class="heart">❤️</div>
+
+<h2>I LOVE YOU</h2>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>माझी वेबसाइट</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 50px;
+        }
+        h1 { color: #2c3e50; }
+        p { color: #555; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>नमस्कार! माझ्या वेबसाइटवर तुमचे स्वागत आहे.</h1>
+    <p>ही माझी पहिली GitHub Pages वेबसाइट आहे.</p>
+</body>
+</html>
